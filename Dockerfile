@@ -1,4 +1,4 @@
-FROM docker:dind
+FROM docker
 
 EXPOSE 22 53 80 443 1000 2375 2376 2377 9010 9443
 
